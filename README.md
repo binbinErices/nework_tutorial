@@ -32,7 +32,7 @@
 4.2 java netty(muduo)  
 4.3 redis网络库  
 4.4 libevent/libuv(跨平台事件库)  
-4.5 nginx的事件驱动模型（master/worker + epoll + 连接池） 
+4.5 nginx的事件驱动模型（master/worker + epoll + 连接池）  
 4.6 quic协议栈（ngtcp2、quiche）新一代高性能传输协议  
 4.7 RPC: C++ RPC框架工业实践  
 
